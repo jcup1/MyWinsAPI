@@ -1,0 +1,14 @@
+/home/jakub/AndroidStudioProjects/personal/API/bin/Debug/netcoreapp2.1/API.deps.json
+/home/jakub/AndroidStudioProjects/personal/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.json
+/home/jakub/AndroidStudioProjects/personal/API/bin/Debug/netcoreapp2.1/API.runtimeconfig.dev.json
+/home/jakub/AndroidStudioProjects/personal/API/bin/Debug/netcoreapp2.1/API.dll
+/home/jakub/AndroidStudioProjects/personal/API/bin/Debug/netcoreapp2.1/API.pdb
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.csproj.CoreCompileInputs.cache
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cache
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.RazorAssemblyInfo.cs
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.AssemblyInfoInputs.cache
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.AssemblyInfo.cs
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.RazorTargetAssemblyInfo.cache
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.dll
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.pdb
+/home/jakub/AndroidStudioProjects/personal/API/obj/Debug/netcoreapp2.1/API.csprojResolveAssemblyReference.cache
